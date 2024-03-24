@@ -1,10 +1,7 @@
-# presentacion-
+## Lucca Joaquín Bertani
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+* Tengo 18 años
+* Juego Futbol de ves en cuando
+* Soy del mas grande, es decir River
+* Es mi segundo año de la carrera
 
-Ya saben usar git!
